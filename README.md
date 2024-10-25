@@ -13,8 +13,9 @@ Database Table (SQL) Files are also present in Database Files Folder in root Dir
 
 **Prequisites** 
 1. Visual Studio Community
-     1.1 .Net Desktop Development
-2. Attached in prequisite.png file. 
+2. .Net Desktop Development
+3. Attached in prequisite.png file. ![prequisites](https://github.com/user-attachments/assets/d183ae32-1f73-496d-9c56-c057fbc1d1eb)
+
 
 # Install the Setup 
 Also you can just Simply **install the Setup** present in **Setup Files** Folder to visualize how can a campus lost and found system work.
