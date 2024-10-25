@@ -11,6 +11,11 @@ This only works for learning purposes as this will not ensure a complete distrib
 You can use **fork** repo to use the repo to build something interesting like adding an email functonality when a user claim an item or admin wants to send message to that email etc.
 Database Table (SQL) Files are also present in Database Files Folder in root Directory so that you can learn about table structures or easily modify the structure.
 
+**Prequisites** 
+1. Visual Studio Community
+     1.1 .Net Desktop Development
+2. Attached in prequisite.png file. 
+
 # Install the Setup 
 Also you can just Simply **install the Setup** present in **Setup Files** Folder to visualize how can a campus lost and found system work.
 **For testing default admin Username and Password** is **asad**
