@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|c:\\users\\muhammadasad\\source\\repos\\5.campuslostandfoundsystem\\forms\\adminaccessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\adminaccessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\adminaccessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\adminaccessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\utilityclasses\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:utilityclasses\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\defalutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\defalutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmmanageclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmmanageclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\adminaccessform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\adminaccessform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmclaim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmclaim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmmanageclaims.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmmanageclaims.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\forms\\frmupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F781D-DC43-4A2D-85DF-000F2E963F09}|CampusLostAndFoundSystem.csproj|solutionrelative:forms\\frmupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminAccessForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminAccessForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminAccessForm.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminAccessForm.cs [Design]",
+              "RelativeToolTip": "Forms\\AdminAccessForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:26:44.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminAccessForm.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminAccessForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminAccessForm.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminAccessForm.cs",
+              "RelativeToolTip": "Forms\\AdminAccessForm.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAnwDEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:44:11.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmReport.cs",
+              "RelativeDocumentMoniker": "Forms\\frmReport.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\frmReport.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\frmReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:08:42.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReport.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmReport.cs",
+              "RelativeDocumentMoniker": "Forms\\frmReport.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmReport.cs",
+              "RelativeToolTip": "Forms\\frmReport.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAjwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:33:06.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\UtilityClasses\\Function.cs",
+              "RelativeDocumentMoniker": "UtilityClasses\\Function.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\UtilityClasses\\Function.cs",
+              "RelativeToolTip": "UtilityClasses\\Function.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAANAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:10:37.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:21:07.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:51:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmClaim.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmClaim.cs",
+              "RelativeDocumentMoniker": "Forms\\frmClaim.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmClaim.cs",
+              "RelativeToolTip": "Forms\\frmClaim.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:20:11.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmClaim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmClaim.cs",
+              "RelativeDocumentMoniker": "Forms\\frmClaim.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\frmClaim.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\frmClaim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:20:03.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "defalutForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\defalutForm.cs",
+              "RelativeDocumentMoniker": "Forms\\defalutForm.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\defalutForm.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\defalutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:56:33.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmManageClaims.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmManageClaims.cs",
+              "RelativeDocumentMoniker": "Forms\\frmManageClaims.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\frmManageClaims.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\frmManageClaims.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:55:50.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\AdminForm.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:01:00.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmUpdateProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmUpdateProfile.cs",
+              "RelativeDocumentMoniker": "Forms\\frmUpdateProfile.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\frmUpdateProfile.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\frmUpdateProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:33:11.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\frmMain.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:54:03.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\frmMain.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmMain.cs",
+              "RelativeToolTip": "Forms\\frmMain.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAnwLQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:54:30.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminAccessForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminAccessForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminAccessForm.Designer.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminAccessForm.Designer.cs",
+              "RelativeToolTip": "Forms\\AdminAccessForm.Designer.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAnwOcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:02:07.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\AdminForm.cs",
+              "RelativeToolTip": "Forms\\AdminForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:01:58.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmManage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmManage.cs",
+              "RelativeDocumentMoniker": "Forms\\frmManage.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\CampusLostAndFoundSystem\\Forms\\frmManage.cs [Design]",
+              "RelativeToolTip": "..\\CampusLostAndFoundSystem\\Forms\\frmManage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:13:22.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmClaim.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmClaim.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\frmClaim.Designer.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmClaim.Designer.cs",
+              "RelativeToolTip": "Forms\\frmClaim.Designer.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAnwAgBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:10:46.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmManageClaims.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmManageClaims.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\frmManageClaims.Designer.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmManageClaims.Designer.cs",
+              "RelativeToolTip": "Forms\\frmManageClaims.Designer.cs",
+              "ViewState": "AQIAAEMBAAAAAAAAAAAnwFMBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:32:53.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmUpdateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmUpdateProfile.cs",
+              "RelativeDocumentMoniker": "Forms\\frmUpdateProfile.cs",
+              "ToolTip": "C:\\Users\\MuhammadAsad\\source\\repos\\5.CampusLostAndFoundSystem\\Forms\\frmUpdateProfile.cs",
+              "RelativeToolTip": "Forms\\frmUpdateProfile.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:33:17.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

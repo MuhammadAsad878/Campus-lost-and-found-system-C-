@@ -1,0 +1,4 @@
+﻿CREATE TABLE Admin (
+    Username VARCHAR(50) PRIMARY KEY,
+    Password VARCHAR(50) NOT NULL
+);
