@@ -1,0 +1,15 @@
+﻿INSERT INTO Categories (Name) VALUES ('Electronics');
+INSERT INTO Categories (Name) VALUES ('Clothing');
+INSERT INTO Categories (Name) VALUES ('Books');
+INSERT INTO Categories (Name) VALUES ('Stationery');
+INSERT INTO Categories (Name) VALUES ('Jewelry');
+INSERT INTO Categories (Name) VALUES ('Keys');
+INSERT INTO Categories (Name) VALUES ('Wallets/Purses');
+INSERT INTO Categories (Name) VALUES ('Bags/Backpacks');
+INSERT INTO Categories (Name) VALUES ('Eyewear');
+INSERT INTO Categories (Name) VALUES ('Sports Equipment');
+INSERT INTO Categories (Name) VALUES ('Personal Accessories');
+INSERT INTO Categories (Name) VALUES ('Documents');
+INSERT INTO Categories (Name) VALUES ('Musical Instruments');
+INSERT INTO Categories (Name) VALUES ('Food Containers');
+INSERT INTO Categories (Name) VALUES ('Other');

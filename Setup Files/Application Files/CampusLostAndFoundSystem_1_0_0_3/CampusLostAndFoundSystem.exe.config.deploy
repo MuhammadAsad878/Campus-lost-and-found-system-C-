@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="CampusLostAndFoundSystem.Properties.Settings.campusLostAndFoundSystemdbConnectionString" connectionString="Data Source=(localdb)\MSSqllocaldb;Initial Catalog=campusLostAndFoundSystemdb;Integrated Security=True;Pooling=False;Encrypt=True;TrustServerCertificate=False" providerName="System.Data.SqlClient"/>
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/>
+    </startup>
+</configuration>
